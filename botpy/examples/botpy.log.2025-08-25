@@ -1,0 +1,73 @@
+2025-08-25 20:55:07,641	[INFO]	(client.py:162)_bot_login	[botpy] 登录机器人账号中...
+2025-08-25 20:55:07,878	[INFO]	(robot.py:65)update_access_token	[botpy] access_token expires_in 893
+2025-08-25 20:55:08,487	[INFO]	(client.py:181)_bot_init	[botpy] 程序启动...
+2025-08-25 20:55:08,487	[INFO]	(connection.py:60)multi_run	[botpy] 最大并发连接数: 1, 启动会话数: 1
+2025-08-25 20:55:08,487	[INFO]	(client.py:242)bot_connect	[botpy] 会话启动中...
+2025-08-25 20:55:08,487	[INFO]	(gateway.py:115)ws_connect	[botpy] 启动中...
+2025-08-25 20:55:08,674	[INFO]	(gateway.py:142)ws_identify	[botpy] 鉴权中...
+2025-08-25 20:55:08,805	[INFO]	(gateway.py:85)on_message	[botpy] 机器人「骰子辅助-测试中」启动成功！
+2025-08-25 20:55:08,819	[INFO]	(gateway.py:223)_send_heart	[botpy] 心跳维持启动...
+2025-08-25 20:55:08,819	[INFO]	(main.py:16)on_ready	robot 「骰子辅助-测试中」 on_ready!
+2025-08-25 21:20:53,400	[INFO]	(robot.py:65)update_access_token	[botpy] access_token expires_in 7200
+2025-08-25 21:20:54,430	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDdMjO61LbYJOZYC43gpAXwoDIDFrwLcl2ORX7yX5pn1FQAywG8rKuvfEbM.9ExL2WA!!', 'timestamp': '2025-08-25T21:20:49+08:00'}
+2025-08-25 21:22:10,712	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDfBaO2VbMcjzkJ3k2Vv.jbYJVWMZjG8v.VJd7WTWvrkBhFlMG8vQUmm.qW6phgY0kA!!', 'timestamp': '2025-08-25T21:22:06+08:00'}
+2025-08-25 21:25:08,708	[INFO]	(gateway.py:56)on_closed	[botpy] 关闭, 返回码: 4009, 返回信息: Session timed out
+2025-08-25 21:25:08,710	[INFO]	(gateway.py:134)ws_connect	[botpy] ws关闭, 停止接收消息!
+2025-08-25 21:25:13,711	[INFO]	(connection.py:60)multi_run	[botpy] 最大并发连接数: 1, 启动会话数: 1
+2025-08-25 21:25:13,711	[INFO]	(client.py:242)bot_connect	[botpy] 会话启动中...
+2025-08-25 21:25:13,711	[INFO]	(gateway.py:115)ws_connect	[botpy] 启动中...
+2025-08-25 21:25:13,898	[INFO]	(gateway.py:175)ws_resume	[botpy] 重连启动...
+2025-08-25 21:25:13,998	[INFO]	(gateway.py:90)on_message	[botpy] 机器人重连成功! 
+2025-08-25 21:25:13,998	[INFO]	(gateway.py:223)_send_heart	[botpy] 心跳维持启动...
+2025-08-25 21:31:22,268	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDekq1Ey-lpFhqLqBarTkDyBU6x5TpJXdfTNyy8s8tDkU-CX9C3owvYHJuNpYbLku2A!!', 'timestamp': '2025-08-25T21:31:17+08:00'}
+2025-08-25 21:31:28,889	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDaasz5bV0OilObMx9VCPB3itLwUYVZJ5yo9qUw4x4tIe1P1fUlzeUMXeZtdIhcqmwA!!', 'timestamp': '2025-08-25T21:31:23+08:00'}
+2025-08-25 21:35:58,677	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDS1A88ZPoB.vh5pblgTtSB.eG6BAjvR4SdUoNF-ZSgRfaCjGABCR4Kqpdz09CWBsOw!!', 'timestamp': '2025-08-25T21:35:53+08:00'}
+2025-08-25 21:36:27,337	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDc65jMp5mBRmgJddBM.cdV-oWt7cCg826CLFm9LgEipbF953HY.0L1D2PmfEZtpg6Q!!', 'timestamp': '2025-08-25T21:36:22+08:00'}
+2025-08-25 21:37:50,270	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDbSXvh0E.kkjWMcmvk.075BD26WvuutKSRl6K0TqR2vqZLrGBPEIzcmBgTUHFMxWAg!!', 'timestamp': '2025-08-25T21:37:45+08:00'}
+2025-08-25 21:37:59,254	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDYocbp.kF1jkIe3P60xWIP4DJ46N-m9Z3fpFln7Bu.YWAOjmYwuMHG7Q78s2423fvQ!!', 'timestamp': '2025-08-25T21:37:54+08:00'}
+2025-08-25 21:38:47,272	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDW7Jc-GNp9ozZGDK1dIk8G4LxoyTadqFcoYCGkJyMX9hZYvxQeWtphB2flChTighYw!!', 'timestamp': '2025-08-25T21:38:42+08:00'}
+2025-08-25 21:42:10,338	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDTOTGNgXAojSgbLDNFUa4afG76KNQr119FiKEGuZlv65ir5plMxs.flnXX5xI16xfQ!!', 'timestamp': '2025-08-25T21:42:05+08:00'}
+2025-08-25 21:42:25,318	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDcRAsV95GYLBeTgGppkCAqozft4L5jaqLluXKVWNfaz3oPYGqLL88-VWg0dLF5XacQ!!', 'timestamp': '2025-08-25T21:42:20+08:00'}
+2025-08-25 21:43:02,919	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDb5q-QVDpbKFe2GtgW.2bbhfvPCQ9I6.x1GbUpegUduUoEWBRHdyYcxJA-XzCBQsLg!!', 'timestamp': '2025-08-25T21:42:58+08:00'}
+2025-08-25 21:43:14,510	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDQR8wQz4TlGIC2M8-hAmSON20uuc2qQTMcydaPUUXnROGwv.udmZTk.wvVvCBjlJ5A!!', 'timestamp': '2025-08-25T21:43:09+08:00'}
+2025-08-25 21:50:40,873	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDTGs.T.Hz0K7F9Q5s8Ia4kEqgGV5RVmY2bXYSdXt-00mf.ZWDlLKgdakS0gLyG8Wqg!!', 'timestamp': '2025-08-25T21:50:36+08:00'}
+2025-08-25 21:54:07,793	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDRKuMcoz2w4tE9eE56f7I4Km8V1n4Pcosd31UdLaWXXhViFI2.7zmVo49jFyyrNEtA!!', 'timestamp': '2025-08-25T21:54:02+08:00'}
+2025-08-25 21:55:13,931	[INFO]	(gateway.py:56)on_closed	[botpy] 关闭, 返回码: 4009, 返回信息: Session timed out
+2025-08-25 21:55:13,931	[INFO]	(gateway.py:134)ws_connect	[botpy] ws关闭, 停止接收消息!
+2025-08-25 21:55:18,951	[INFO]	(connection.py:60)multi_run	[botpy] 最大并发连接数: 1, 启动会话数: 1
+2025-08-25 21:55:18,951	[INFO]	(client.py:242)bot_connect	[botpy] 会话启动中...
+2025-08-25 21:55:18,951	[INFO]	(gateway.py:115)ws_connect	[botpy] 启动中...
+2025-08-25 21:55:19,151	[INFO]	(gateway.py:175)ws_resume	[botpy] 重连启动...
+2025-08-25 21:55:19,272	[INFO]	(gateway.py:90)on_message	[botpy] 机器人重连成功! 
+2025-08-25 21:55:19,272	[INFO]	(gateway.py:223)_send_heart	[botpy] 心跳维持启动...
+2025-08-25 21:58:30,447	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDQbDGeamhR3RIkGRX-oDWSuAbqMmkspIBoxZjWcKnaDsXTF2xFzM9kNbBFbqZpj2Fw!!', 'timestamp': '2025-08-25T21:58:25+08:00'}
+2025-08-25 21:58:38,447	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDTkx9LBoOBTye-sl8ool9n75dqQlJQ165nOsV1WFfQvvlMIR78.LWD3xzCR3GLH1Kw!!', 'timestamp': '2025-08-25T21:58:33+08:00'}
+2025-08-25 22:00:28,350	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDVQtnQQ4QTl3TdtbsVCjCAXS5aIQtcz7XKvdKEZTIoAxcsjI2.8sGcmt85X10qiLfQ!!', 'timestamp': '2025-08-25T22:00:23+08:00'}
+2025-08-25 22:02:38,371	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDXLRTW3fmhyLWLIjywicb5fxewCNNdF0ZVffYdXle9dPqmgY-5Q8FrUu6tHC7bcNnQ!!', 'timestamp': '2025-08-25T22:02:33+08:00'}
+2025-08-25 22:03:21,395	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDQniCEiInxnObPT6xR9ZJA.8Zfr6sowll910EbAyobAorBsKLWOzSHbaGrKpXE9nkw!!', 'timestamp': '2025-08-25T22:03:16+08:00'}
+2025-08-25 22:05:18,299	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDd1Y0ZlU9NEE4lD4RuxyA4xih56-OByc3Ur.EBTsYCCGNwnKgvJsQJJpCcTAsXAWeA!!', 'timestamp': '2025-08-25T22:05:13+08:00'}
+2025-08-25 22:11:14,436	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDed7ot2zeScRX7HioTTB3euVLoH60dh1zXyVDA40u7xEH1of343FiQ9nhHbfNTPj2w!!', 'timestamp': '2025-08-25T22:11:09+08:00'}
+2025-08-25 22:11:44,344	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDSKZ-aOqAgPyd71OaQEY3swW5JkqdfERm1OgFVB0zf1fFyOOgbxUagI2ETqL67TtCQ!!', 'timestamp': '2025-08-25T22:11:39+08:00'}
+2025-08-25 22:12:16,987	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDfQrZkefRZrXEmBM3OyYAom07H4OXcWAnFsgkwZw733P6RuYd0nRSrhf2MK3HzCOvg!!', 'timestamp': '2025-08-25T22:12:12+08:00'}
+2025-08-25 22:12:33,992	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDcmyRFM40MSmzlbpjEF6DlcH4.nTWfbbZ4DIxX2ifiKFW9sTZ3.klR4tPwyQPIoBOw!!', 'timestamp': '2025-08-25T22:12:29+08:00'}
+2025-08-25 22:21:33,303	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDYJqkBm80RVmK9M7uawoc.ojANHlzTbTioS0Xot4r6OJNfTDD0QD5J9QjZ-hYS91XQ!!', 'timestamp': '2025-08-25T22:21:28+08:00'}
+2025-08-25 22:21:52,438	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDQUx6S1fKqHm4FZBSbHu5.mqJyPw3YrBpCvlt2-lHeq2jV08W-o8XiU7jdI4hms9UA!!', 'timestamp': '2025-08-25T22:21:47+08:00'}
+2025-08-25 22:25:14,431	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDVylzPWfoLzHO1k9G6bn3LmiC2lh70rAGHE4zRPzOU87qG0J19OA3kciPYph2moOOQ!!', 'timestamp': '2025-08-25T22:25:09+08:00'}
+2025-08-25 22:25:19,189	[INFO]	(gateway.py:56)on_closed	[botpy] 关闭, 返回码: 4009, 返回信息: Session timed out
+2025-08-25 22:25:19,189	[INFO]	(gateway.py:134)ws_connect	[botpy] ws关闭, 停止接收消息!
+2025-08-25 22:25:24,181	[INFO]	(connection.py:60)multi_run	[botpy] 最大并发连接数: 1, 启动会话数: 1
+2025-08-25 22:25:24,181	[INFO]	(client.py:242)bot_connect	[botpy] 会话启动中...
+2025-08-25 22:25:24,181	[INFO]	(gateway.py:115)ws_connect	[botpy] 启动中...
+2025-08-25 22:25:24,367	[INFO]	(gateway.py:175)ws_resume	[botpy] 重连启动...
+2025-08-25 22:25:24,455	[INFO]	(gateway.py:90)on_message	[botpy] 机器人重连成功! 
+2025-08-25 22:25:24,455	[INFO]	(gateway.py:223)_send_heart	[botpy] 心跳维持启动...
+2025-08-25 22:44:29,996	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDTFga-Jw7kEmx7WlRLjRvcNnapo8mVL7e5PfKR2g14cedEsoTGcvxma4F5v4YAWxsA!!', 'timestamp': '2025-08-25T22:44:25+08:00'}
+2025-08-25 22:46:53,823	[INFO]	(main.py:85)on_group_at_message_create	{'id': 'ROBOT1.0_KyY3jrNtEY2MRtbS72GjDSx-f0hgIIoKBdhrbvX1mCOqn3PYREJZX07R0GPVpeSHP9E6Pej-466ourfgcYmRCw!!', 'timestamp': '2025-08-25T22:46:49+08:00'}
+2025-08-25 22:55:24,398	[INFO]	(gateway.py:56)on_closed	[botpy] 关闭, 返回码: 4009, 返回信息: Session timed out
+2025-08-25 22:55:24,398	[INFO]	(gateway.py:134)ws_connect	[botpy] ws关闭, 停止接收消息!
+2025-08-25 22:55:29,388	[INFO]	(connection.py:60)multi_run	[botpy] 最大并发连接数: 1, 启动会话数: 1
+2025-08-25 22:55:29,388	[INFO]	(client.py:242)bot_connect	[botpy] 会话启动中...
+2025-08-25 22:55:29,388	[INFO]	(gateway.py:115)ws_connect	[botpy] 启动中...
+2025-08-25 22:55:29,625	[INFO]	(gateway.py:175)ws_resume	[botpy] 重连启动...
+2025-08-25 22:55:29,723	[INFO]	(gateway.py:90)on_message	[botpy] 机器人重连成功! 
+2025-08-25 22:55:29,723	[INFO]	(gateway.py:223)_send_heart	[botpy] 心跳维持启动...
